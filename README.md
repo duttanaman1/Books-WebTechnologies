@@ -10,11 +10,7 @@ Few books on web technology
   <tr>
     <td>CSS Handbook</td>
     <td><a href="https://github.com/duttanaman1/Books-WebTechnologies/blob/main/css-handbook.pdf">Download</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="">Download</a></td>
-  </tr>
+  </tr>  
   <tr>
     <td>JavaScript Handbook</td>
     <td><a href="https://github.com/duttanaman1/Books-WebTechnologies/blob/main/javascript-beginner-handbook.pdf">Download</a></td>
